@@ -7,11 +7,16 @@
 
 ## 二、主要功能  
 1、通过GPS模块串口获取GPS信息，输出到串口监视器  
-2.WiFi模块连接wifi，实现上网。  
-3.启动本地服务器和客户端，传输GPS信息。
+2、WiFi模块连接wifi，实现上网。  
+3、启动本地服务器和客户端，传输GPS信息。
 
 ## 三、结果展示  
-1.嵌入式组装
-![image-20211126190014411](C:\Users\是离离呀\AppData\Roaming\Typora\typora-user-images\image-20211126190014411.png)
+1、嵌入式组装
+![](https://img2020.cnblogs.com/blog/2533491/202111/2533491-20211126190414487-1336990848.png)
+
+2、数据传输
+通过刷新可以获得新的定位信息。
+![image](https://user-images.githubusercontent.com/90182349/143571522-e7305478-1f10-460f-8851-2e3c9da5b641.png)
+
 
 
